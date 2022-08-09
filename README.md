@@ -5,11 +5,17 @@ __LAW HOME PAGE__
 
 This project is related to home page of LAW. 
 
-## Lesson Learned
+### Challenges
+Since in this project ,I had to work on both HTML and CSS so there were lots of challenges for me like-
+- background image
+- background-size
+- position (absolute , relative)
+- header and footer background with height
+- left and right arrow in css and html
 
 
-In this project I learnt header and footer property also i could able to insert background image with actual witdh and height. As a beginner i had no idea how to fix that issue but after watching the course video and practic, I could be able to fix this problem.
+### Total time to complete this project
 
-## Time Taken
+It took me 3.5 hours to complete.
+![myproject link](./project3-img.png)
 
-This project has taken 2.5 hours to complete.
